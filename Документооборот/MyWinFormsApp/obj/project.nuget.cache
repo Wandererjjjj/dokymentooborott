@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ti3dTJET1ms=",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\Документооборот\\MyWinFormsApp\\MyWinFormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Андрей\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
